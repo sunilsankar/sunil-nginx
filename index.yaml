@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sunil-nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-02-01T13:45:01.647238064Z"
+    description: A Helm chart for Kubernetes
+    digest: 425c33ed0fd3fc71078bbed9d85575614831c86d4813635e27c090ab9f318e15
+    name: sunil-nginx
+    type: application
+    urls:
+    - https://sunilsankar1.github.io/sunil-nginx/sunil-nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-02-01T13:45:01.646889388Z"
