@@ -9,6 +9,6 @@ entries:
     name: sunil-nginx
     type: application
     urls:
-    - https://sunilsankar1.github.io/sunil-nginx/sunil-nginx-0.1.0.tgz
+    - https://sunilsankar.github.io/sunil-nginx/sunil-nginx-0.1.0.tgz
     version: 0.1.0
 generated: "2020-02-01T13:45:01.646889388Z"
